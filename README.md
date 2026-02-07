@@ -1,3 +1,3 @@
-# godot-test
+# Godot Test Game
 
-Archival for a test tutorial game built on Godot with GDScript.
+Test tutorial game built on Godot with GDScript, for archival purposes.
